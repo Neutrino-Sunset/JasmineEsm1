@@ -1,0 +1,15 @@
+{
+  "name": "jasmine-esm1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "jasmine --config=jasmine.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.6.3"
+  }
+}
